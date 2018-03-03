@@ -1,0 +1,9 @@
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\bin\Debug\ChuanHoaChuoi.exe.config
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\bin\Debug\ChuanHoaChuoi.exe
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\bin\Debug\ChuanHoaChuoi.pdb
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.Form1.resources
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.Properties.Resources.resources
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.csproj.GenerateResource.Cache
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.exe
+c:\users\dongx\onedrive\documents\visual studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.pdb
+C:\Users\dongx\OneDrive\Documents\Visual Studio 2015\Projects\ChuanHoaChuoi\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.csprojResolveAssemblyReference.cache
